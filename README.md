@@ -12,4 +12,4 @@
 
 # .\Island.ps1 -DebugMode
 
-when asked to enter path to file you can just type in C:\apple notes to just directly path it to the file
+# when asked to enter path to file you can just type in C:\apple notes to just directly path it to the file
