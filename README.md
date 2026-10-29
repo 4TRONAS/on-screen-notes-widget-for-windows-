@@ -1,2 +1,2 @@
-# windows-dynamic-island-debugged-v1
-a dynamic island experience for users on windows 
+# On screen notes widget
+# saved on desktop notes for everyday immediate note taking for important events and work.
